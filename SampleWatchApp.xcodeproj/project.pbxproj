@@ -15,6 +15,7 @@
 		5E4223102B773F7600974192 /* SampleWatchApp_Watch_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42230F2B773F7600974192 /* SampleWatchApp_Watch_AppTests.swift */; };
 		5E42231A2B773F7600974192 /* SampleWatchApp_Watch_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4223192B773F7600974192 /* SampleWatchApp_Watch_AppUITests.swift */; };
 		5E42231C2B773F7600974192 /* SampleWatchApp_Watch_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E42231B2B773F7600974192 /* SampleWatchApp_Watch_AppUITestsLaunchTests.swift */; };
+		5E42232D2B77417500974192 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5E42232C2B77417500974192 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		5E4223152B773F7600974192 /* SampleWatchApp Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SampleWatchApp Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E4223192B773F7600974192 /* SampleWatchApp_Watch_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleWatchApp_Watch_AppUITests.swift; sourceTree = "<group>"; };
 		5E42231B2B773F7600974192 /* SampleWatchApp_Watch_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleWatchApp_Watch_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5E42232C2B77417500974192 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		5E4222EC2B773F7500974192 = {
 			isa = PBXGroup;
 			children = (
+				5E42232C2B77417500974192 /* README.md */,
 				5E4222FD2B773F7500974192 /* SampleWatchApp Watch App */,
 				5E42230E2B773F7600974192 /* SampleWatchApp Watch AppTests */,
 				5E4223182B773F7600974192 /* SampleWatchApp Watch AppUITests */,
@@ -276,6 +279,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E42232D2B77417500974192 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
